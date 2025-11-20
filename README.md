@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently planning to learn Next.JS<br>🎯 Goals: Making Lakeban Popular<br>🎲 Fun fact: i dont have a life</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently planning to learn Next.JS<br>🎯 Goals: Becoming a Succesfull developer<br>🎲 Fun fact: i dont have a life</p>
 
 ###
 
