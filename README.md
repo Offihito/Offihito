@@ -2,7 +2,7 @@
 
 im just a useless 15 year old web developer
 
-I work with VanillaJS,HTML5,CSS,PHP,MYSQL,JQUERY and Tailwind CSS
+I work with VanillaJS HTML5 CSS TAILWIND CSS JQUERYJS NODEJS PHP MYSQL
 
 <h3 align="left">
   You can contact me on Discord Offihito
