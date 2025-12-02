@@ -1,37 +1,13 @@
-<h1 align="left">Tuffy Tuff Offi</h1>
+<h1 align="left">uhmmm</h1>
 
-###
+im just a useless 15 year old web developer
 
-<p align="left">My name is Offihito</p>
+I work with VanillaJS,HTML5,CSS,PHP,MYSQL,JQUERY and Tailwind CSS
 
-###
+<h3 align="left">
+  You can contact me on Discord Offihito
+</h3>
 
-<h2 align="left">About me</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
-###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently planning to learn Next.JS<br>🎯 Goals: Becoming a Succesfull developer<br>🎲 Fun fact: i dont have a life</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
