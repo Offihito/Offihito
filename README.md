@@ -7,7 +7,7 @@ TAILWIND CSS JQUERY NODE JS PHP MYSQL
 
 I worked as a leader in Lakeban coded 75% of it
 
-I also use AI for some hobby projects such as AscentOS or Forkit-Browser
+I also use AI for some hobby projects such as AscentOS
 
 <h3 align="left">
   You can contact me on Discord Offihito
