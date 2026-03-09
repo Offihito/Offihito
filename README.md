@@ -56,7 +56,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <i>"Not useless — just debugging life one commit at a time."</i> 😎
-</div>
