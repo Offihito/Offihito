@@ -29,8 +29,7 @@
   
   **Lakeban**  
   Leader & ~75% of the codebase • Real users, real impact at 15 🚀  
-  (Community-driven platform – check it out if you're into [link varsa buraya])
-
+  
   **AscentOS**  
   AI-powered hobby "OS" project 🧠💻  
   Using AI to generate components & experiment with system ideas
@@ -40,10 +39,7 @@
 
 <div align="center">
   <h3>📊 GitHub Activity</h3>
-  
-  <!-- Buraya kendi GitHub username'ini yaz (OFFIHITO büyük/küçük harf duyarlı olabilir, genelde küçük) -->
-
-  
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=offihito&theme=dracula&hide_border=true" alt="Streak"/>
   
 
