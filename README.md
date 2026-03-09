@@ -42,11 +42,11 @@
   <h3>📊 GitHub Activity</h3>
   
   <!-- Buraya kendi GitHub username'ini yaz (OFFIHITO büyük/küçük harf duyarlı olabilir, genelde küçük) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=offihito&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
+
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=offihito&theme=dracula&hide_border=true" alt="Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offihito&layout=compact&theme=dracula&hide_border=true" alt="Top Langs"/>
+
 </div>
 
 <br/>
