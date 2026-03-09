@@ -58,13 +58,7 @@
   <a href="https://discord.com/users/Offihito">
     <img src="https://img.shields.io/badge/Discord-Offihito-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-
-  <!-- İstersen buraya X / Instagram / LinkedIn vs eklersin -->
-
+  
 </div>
 
 <br/>
-
-<div align="center">
-  <i>"I'm not useless... I'm just pre-alpha version."</i> 😏
-</div>
