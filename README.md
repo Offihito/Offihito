@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm Offihito, a 15 y.o. web developer who mostly does experiments in free time.
+I'm Offihito, a 16 y.o. web developer who mostly does experiments in free time.
 
 - Vanilla JS / HTML / CSS / Tailwind / jQuery / Node.js / PHP / MySQL for web
 - C and low-level for fun (AI)
