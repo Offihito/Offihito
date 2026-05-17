@@ -1,11 +1,18 @@
-Hello! 👋
+Whats up guys
 
 I'm Offihito, a 16 y.o. web developer who mostly does experiments in free time.
 
 - Vanilla JS / HTML / CSS / Tailwind / jQuery / Node.js / PHP / MySQL for web
-- C and low-level for fun (AI)
+- low-level for fun Both AI and human code (just started :D)
 
-Leader on Lakeban (coded ~75% of it).  
-Also messing with AI side projects like AscentOS.
+What Projects i made?
+Lakeban a social media platform which peaked over 330+ users
+Forkit a browser with features like opening blocked websites on your country and blocking ads
+ReconC a basic C decompiler that tries to turn binaries with debug symbol to their original C code
+AscentOS a x86_64 operating system that is capable of running most of the linux software!
+Krexo a limine-like bootloader targets to be compatible with linux-boot, Multiboot2, limine-protocol 
+also it has its own special protocol named krexo-protocol
 
+Thanks for reading my README.md
+|if youre interested in talking |
 Hit me up on Discord: Offihito
