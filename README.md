@@ -15,7 +15,7 @@ also it has its own special protocol named krexo-protocol
 
 Thanks for reading my README.md
 
-![Visitors](https://visitcount.itsvg.in/api?id=Offihito&label=Ziyaret&color=0&icon=2&pretty=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=Offihito)
 
 | if you're interested in talking |
 Hit me up on Discord: Offihito
