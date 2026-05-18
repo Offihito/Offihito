@@ -14,5 +14,8 @@ What Projects i made?
 also it has its own special protocol named krexo-protocol
 
 Thanks for reading my README.md
-|if youre interested in talking |
+
+![Visitors](https://visitcount.itsvg.in/api?id=Offihito&label=Ziyaret&color=0&icon=2&pretty=true)
+
+| if you're interested in talking |
 Hit me up on Discord: Offihito
