@@ -1,21 +1,23 @@
-Whats up guys
+# Hey guys
 
-I'm Offihito, a 16 y.o. web developer who mostly does experiments in free time.
+I'm Offihito, a **16 y.o. web developer** who mostly does experiments in free time.
 
 - Vanilla JS / HTML / CSS / Tailwind / jQuery / Node.js / PHP / MySQL for web
-- low-level for fun Both AI and human code (just started :D)
+- low-level for fun Both AI and human code (just started)
 
-What Projects i made?
-1. Lakeban a social media platform which peaked over 330+ users
-2. Forkit a browser with features like opening blocked websites on your country and blocking ads
-3. ReconC a basic C decompiler that tries to turn binaries with debug symbol to their original C code
-4. AscentOS a x86_64 operating system that is capable of running most of the linux software!
-5. Krexo a limine-like bootloader targets to be compatible with linux-boot, Multiboot2, limine-protocol 
-also it has its own special protocol named krexo-protocol
+## What Projects i made?
+| Project | Description | Highlights |
+|---------|-------------|------------|
+| **Lakeban** | Social media platform | 330+ active users |
+| **Forkit** | Feature-rich browser |  Unblocks regional content • Ad blocking |
+| **ReconC** | C decompiler | Binary → Debug symbols → Original C code |
+| **AscentOS** | x86_64 OS |  Runs most Linux software |
+| **Krexo** | Multi-protocol bootloader | Supports Linux-boot, Multiboot2, Limine + custom **Krexo-protocol** |
 
 Thanks for reading my README.md
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Offihito)
 
 | if you're interested in talking |
-Hit me up on Discord: Offihito
+
+Hit me up on **Discord:**: Offihito
