@@ -2,8 +2,7 @@
 
 I'm Offihito, a **16 y.o. web developer** who mostly does experiments in free time.
 
-- Vanilla JS / HTML / CSS / Tailwind / jQuery / Node.js / PHP / MySQL for web
-- low-level for fun Both AI and human code (just started)
+- Vanilla JS / HTML / CSS / Tailwind / jQuery / Node.js / PHP / MySQL / C / 
 
 ## What Projects i made?
 | Project | Description | Highlights |
