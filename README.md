@@ -10,7 +10,7 @@ I'm Offihito, a **16 y.o. web developer** who mostly does experiments in free ti
 | **Lakeban** | Social media platform | 330+ active users |
 | **Forkit** | Feature-rich browser |  Unblocks regional content • Ad blocking |
 | **ReconC** | C decompiler | Binary → Debug symbols → Original C code |
-| **AscentOS** | x86_64 OS |  Runs most Linux software |
+| **AvoryOS** | x86_64 OS |  Runs most Linux software |
 | **Krexo** | Multi-protocol bootloader | Currently Supports custom **Krexo-protocol** |
 
 Thanks for reading my README.md
